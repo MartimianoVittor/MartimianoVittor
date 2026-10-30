@@ -92,23 +92,12 @@ alt="Linguagens mais utilizadas"/>
 <img src="https://img.shields.io/badge/Email-6E1018?style=for-the-badge&logo=gmail&logoColor=B8B3AD" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
 `☽ ━━━━━━━━━━━━━━━━━━━━━ ^ ━━━━━━━━━━━━━━━━━━━━━ ☾`
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=3500&pause=1000&color=8B252D&center=true&vCenter=true&width=600&lines=DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSIST%C3%8ANCIA;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS." alt="Frases do bruxo"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+conhecimento+é+a+primeira+arma+de+um+bruxo.;A+ignorância+não+justifica+ações+mal+concebidas.;Os+erros+também+são+importantes+para+mim.;DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSIST%C3%8ANCIA;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS."
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=3500&pause=1000&color=8B252D&center=true&vCenter=true&width=1000&lines=O+CONHECIMENTO+%C3%89+A+PRIMEIRA+ARMA+DE+UM+BRUXO.;A+IGNOR%C3%82NCIA+N%C3%83O+JUSTIFICA+A%C3%87%C3%95ES+MAL+CONCEBIDAS.;OS+ERROS+TAMB%C3%89M+S%C3%83O+IMPORTANTES+PARA+MIM.;DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSIST%C3%8ANCIA.;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS."
 alt="Pensamentos de um bruxo"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+conhecimento+é+a+primeira+arma+de+um+bruxo.;A+ignorância+não+justifica+ações+mal+concebidas.;Os+erros+também+são+importantes+para+mim.;Disciplina+%E2%80%A2+Conhecimento+%E2%80%A2+Persistência.;O+caminho+nunca+termina.;Steel+for+humans%2C+silver+for+monsters."
-alt="Pensamentos de um bruxo"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+CONHECIMENTO+É+A+PRIMEIRA+ARMA+DE+UM+BRUXO.;A+IGNORÂNCIA+NÃO+JUSTIFICA+AÇÕES+MAL+CONCEBIDAS.;OS+ERROS+TAMBÉM+SÃO+IMPORTANTES+PARA+MIM.;DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSISTÊNCIA.;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS."
-alt="Pensamentos de um bruxo"/>
-
 <sub>Codex Lupus • Inspirado no universo de The Witcher</sub>
-
 </div>
 
 
