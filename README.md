@@ -1,13 +1,17 @@
 ## Olá, me chamo Vittor Martimiano 🧑🏻‍💻
 # Bem vindo ao meu github
 
-- Toss a coin to your dev
+- Toss a coin to your dev 🪙
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimianoVittor&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MartimianoVittor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## GitHub Stats 📈 
+<br/>
+<p align="left">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=rose_pine_moon&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&theme=rose_pine_moon" alt="GitHub Streak" />
+</p>
+<p align="left">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrx&layout=compact&theme=rose_pine_moon&langs_count=8" alt="Top Languages" />
+</p>
 
 ## Contatos:
 <div>
