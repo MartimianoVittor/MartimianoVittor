@@ -23,11 +23,15 @@
 
 ## ⚔️ Estatísticas do Bruxo ⚔️
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MartimianoVittor&show_icons=true&hide_border=true&bg_color=171717&title_color=8B252D&icon_color=8B252D&text_color=B8B3AD&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=MartimianoVittor&show_icons=true&hide_border=true&bg_color=171717&title_color=8B252D&icon_color=8B252D&text_color=B8B3AD&rank_icon=github&include_all_commits=true"
+alt="Estatísticas do GitHub"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimianoVittor&layout=compact&hide_border=true&bg_color=171717&title_color=8B252D&text_color=B8B3AD" alt="Linguagens mais utilizadas"/>
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartimianoVittor&layout=compact&hide_border=true&bg_color=171717&title_color=8B252D&text_color=B8B3AD"
+alt="Linguagens mais utilizadas"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=MartimianoVittor&hide_border=true&background=171717&ring=6E1018&fire=8B252D&currStreakLabel=B8B3AD&sideLabels=B8B3AD&currStreakNum=B8B3AD&sideNums=B8B3AD&dates=817A74" alt="Sequência de contribuições"/>
 
@@ -46,7 +50,7 @@
 <img src="https://img.shields.io/badge/STATUS-EM_TREINAMENTO-6E1018?style=for-the-badge&labelColor=171717" alt="Status de treinamento"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=javascript,html&theme=dark" alt="Linguagens de programação"/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-DOMINADO-172D40?style=for-the-badge&labelColor=171717" alt="Status dominado"/>
 <br/>
@@ -57,12 +61,12 @@
 <img src="https://img.shields.io/badge/STATUS-EM_TREINAMENTO-6E1018?style=for-the-badge&labelColor=171717" alt="Status de treinamento"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Ferramentas e tecnologias"/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-DOMINADO-172D40?style=for-the-badge&labelColor=171717" alt="Status dominado"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Ferramentas e tecnologias"/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-MESTRE-80652F?style=for-the-badge&labelColor=171717" alt="Status mestre"/>
 <br/>
@@ -88,11 +92,20 @@
 <img src="https://img.shields.io/badge/Email-6E1018?style=for-the-badge&logo=gmail&logoColor=B8B3AD" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
-`☽ ━━━━━━━━━━━━━━━━━━━━━ 🐺 ━━━━━━━━━━━━━━━━━━━━━ ☾`
+`☽ ━━━━━━━━━━━━━━━━━━━━━ ^ ━━━━━━━━━━━━━━━━━━━━━ ☾`
 
-*O Caminho continua...*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=3500&pause=1000&color=8B252D&center=true&vCenter=true&width=600&lines=DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSIST%C3%8ANCIA;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS." alt="Frases do bruxo"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+conhecimento+é+a+primeira+arma+de+um+bruxo.;A+ignorância+não+justifica+ações+mal+concebidas.;Os+erros+também+são+importantes+para+mim.;DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSIST%C3%8ANCIA;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS."
+alt="Pensamentos de um bruxo"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+conhecimento+é+a+primeira+arma+de+um+bruxo.;A+ignorância+não+justifica+ações+mal+concebidas.;Os+erros+também+são+importantes+para+mim.;Disciplina+%E2%80%A2+Conhecimento+%E2%80%A2+Persistência.;O+caminho+nunca+termina.;Steel+for+humans%2C+silver+for+monsters."
+alt="Pensamentos de um bruxo"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1500&color=8B252D&center=true&vCenter=true&width=900&lines=O+CONHECIMENTO+É+A+PRIMEIRA+ARMA+DE+UM+BRUXO.;A+IGNORÂNCIA+NÃO+JUSTIFICA+AÇÕES+MAL+CONCEBIDAS.;OS+ERROS+TAMBÉM+SÃO+IMPORTANTES+PARA+MIM.;DISCIPLINA+%E2%80%A2+CONHECIMENTO+%E2%80%A2+PERSISTÊNCIA.;O+CAMINHO+NUNCA+TERMINA.;STEEL+FOR+HUMANS%2C+SILVER+FOR+MONSTERS."
+alt="Pensamentos de um bruxo"/>
 
 <sub>Codex Lupus • Inspirado no universo de The Witcher</sub>
 
