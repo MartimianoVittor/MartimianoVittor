@@ -43,7 +43,7 @@ alt="Linguagens mais utilizadas"/>
 
 <div align="center">
 
-## 🧪 Grimório de Habilidades 🧪
+## 🧪 Árvore de Habilidades 🧪
 
 ### Linguagens de Programação
 
